@@ -92,6 +92,7 @@ Computer Science and Engineering Student
 
 
 
-🔹Disclaimer
+🔹Disclaime:
 
-This project is intended for educational and accessibility research purposes.
+This project and its source code are original work developed solely by the author. Any unauthorized copying, redistribution, reproduction, or use of this code or its implementation—in full or in part—is strictly prohibited without prior written permission.
+
